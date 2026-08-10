@@ -2,8 +2,6 @@
 
 Welcome! I'm Denise Smith 👋
 
-# Hi, I'm Denise Smith 👋
-
 ### Healthcare Data Analyst | Business Intelligence Analyst | Power BI Developer
 
 Transforming healthcare and operational data into executive-level insights using Power BI, SQL, DAX, and data storytelling.
