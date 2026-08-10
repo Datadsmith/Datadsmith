@@ -1,61 +1,98 @@
-# [Your Name] - Data Analysis Portfolio
+# Denise Smith - Data Analysis Portfolio
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
+Welcome! I'm Denise Smith 👋
 
-## About This Portfolio Template
+# Hi, I'm Denise Smith 👋
 
-This portfolio is designed to demonstrate skills in:
-- Data visualization and storytelling
-- Data modeling and analysis
-- Creating interactive, professional dashboards
-- Transforming complex data into actionable insights
+### Healthcare Data Analyst | Business Intelligence Analyst | Power BI Developer
+
+Transforming healthcare and operational data into executive-level insights using Power BI, SQL, DAX, and data storytelling.
+
+## About Me
+
+
+I'm a Healthcare Data Analyst with experience building executive dashboards that help organizations monitor financial performance, operational efficiency, provider performance, and patient outcomes.
+
+My portfolio demonstrates how I approach real-world business problems—from cleaning and modeling data to creating interactive dashboards that support strategic decision-making.
 
 ## 🚀 Projects
 
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
+I specialize in building executive dashboards, healthcare analytics solutions, and business intelligence reports using Power BI, SQL, Excel, and DAX.
 
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+Currently expanding my expertise in Microsoft Fabric, advanced SQL, Python, and cloud analytics while developing a portfolio of real-world business intelligence projects.
 
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+### 🏥 Healthcare Executive Performance Command Center
+*Executive dashboard designed for healthcare leadership featuring:
 
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+- Financial KPIs
+- Operational metrics
+- Patient Experience
+- Provider Performance
+- Budget Monitoring
+- Department Performance
+
+➡ View Project https://app.powerbi.com/view?r=eyJrIjoiNDdlM2JhNTgtMDc2MS00YTc2LTg2NWQtZmY4MGQ4NzE1NDY3IiwidCI6ImNhNmI5ODg0LTU0YjItNDRkMi1iNDdlLTc4OGM4M2EyNmIxMiJ9&embedImagePlaceholder=true.*
+<img width="1717" height="932" alt="Screenshot 2026-08-10 045825" src="https://github.com/user-attachments/assets/842b77e1-e337-4ec4-b480-0f02e10c7681" />
+
+### ✈️ Delta Operations Command Center
+*Operational dashboard monitoring
+
+- Flight Performance
+- Delay Analysis
+- On-Time Performance
+- Route Analytics
+- Operational KPIs
+
+➡ View Project https://app.powerbi.com/links/SxYxrpIsd2?ctid=ca6b9884-54b2-44d2-b47e-788c83a26b12&pbi_source=linkShare
+<img width="1052" height="590" alt="Screenshot 2026-08-03 155742" src="https://github.com/user-attachments/assets/a3e60a72-1c5a-4691-948b-48d2e064b3e4" />
+
+
+
+### 💰 Financial Performance Dashboard
+*Business finance dashboard including
+
+- Revenue
+- Profitability
+- Budget vs Actual
+- Forecasting
+- Executive KPI Reporting
+
+(Coming Soon).*
 
 
 ## 🛠️ Skills
 
-Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
+Technical skill set. 
 
 - **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
+- **Data Analysis**: SQL, Python (Pandas), R, Excel.
+- **Data Modeling**: Power Query, DAX, Star Schema Design, KPI.
+- **Tools**: Power BI Service, Microsoft Azure, Google Cloud Platform.
 
-## 💡 How to Use This Template
+## 💡 Credentials 
 
-Creating your own portfolio from this template is a simple, four-step process.
+<img width="770" height="582" alt="Screenshot 2026-08-10 164735" src="https://github.com/user-attachments/assets/dd443a50-a14f-4f41-a9be-11569bbd23d7" />
+ file:///C:/Users/iclie/Downloads/Power%20BI%20Beginner%20to%20Pro%20Workshop%20-%20DANECIA%20SMITH.pdf
+ 
+ 
 
-### 1. Create a New Repository from this Template
-Click the green **"Use this template"** button at the top of this repository page, then select **"Create a new repository"**.
+✔ Microsoft PL-300
 
-### 2. Name Your Repository for GitHub Pages
-This is the most important step. To turn your portfolio into a live website, you **must** name your new repository in the following format:
-`your-username.github.io`
-*(Replace `your-username` with your actual GitHub username.)*
+✔ Microsoft Fabric
 
-### 3. Customize Your Portfolio
-Open the `index.html` file and begin personalizing it. The file contains helpful `<!--💡UPDATE: ... -->` comments to guide you on where to change:
-- Your name and title
-- Social media links
-- The "About Me" section
-- Your project titles, descriptions, and links
-- Your list of skills
+✔ Advanced SQL
 
-### 4. Add Your Files
-- Upload your profile photo and project preview images to the `assets/images/` folder.
-- Upload your CV (e.g., in PDF format) to the `assets/` folder.
-- Create your favicon and add it to the root folder.
+✔ Python for Analytics
 
-Once you commit your changes, your new portfolio website will be live at `https://your-username.github.io` within a few minutes!
+---
+
+## Connect With Me
+
+LinkedIn:
+https://linkedin.com/in/dsmithanalytics
+
+
+Email:
+Iclientel@yahoo.com
+
+
