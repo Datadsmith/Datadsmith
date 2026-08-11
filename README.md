@@ -78,7 +78,7 @@ Resume: [DatadSmith_Analyst_Resume.pdf](https://github.com/user-attachments/file
 
 <img width="700" alt="Certifications and project screenshots" src="https://github.com/user-attachments/assets/dd443a50-a14f-4f41-a9be-11569bbd23d7" />
 
-> Note: A local (file://) path that referenced a file on a Windows machine has been removed because it isn’t accessible from the repository.
+
 
 ---
 
@@ -89,8 +89,3 @@ Resume: [DatadSmith_Analyst_Resume.pdf](https://github.com/user-attachments/file
 
 ---
 
-If you'd like, I can also:
-
-- Add a short bio paragraph for a LinkedIn-style summary.
-- Reformat the Projects section into separate project pages with README links and embedded report images.
-- Upload the resume into the repository (if you provide the file) and link it from here.
