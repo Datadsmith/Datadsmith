@@ -81,6 +81,7 @@ Technical skill set.
 <img width="430" height="562" alt="Screenshot 2026-08-10 211837" src="https://github.com/user-attachments/assets/a546fdb2-f8f2-4d94-86b0-4d6915cf20e5" />
 
 
+[DatadSmith_Analyst_Resume.pdf](https://github.com/user-attachments/files/30919580/DatadSmith_Analyst_Resume.pdf)
 
 
 
