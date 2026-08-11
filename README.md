@@ -70,9 +70,20 @@ Technical skill set.
 ## 💡 Credentials 
 
 <img width="770" height="582" alt="Screenshot 2026-08-10 164735" src="https://github.com/user-attachments/assets/dd443a50-a14f-4f41-a9be-11569bbd23d7" />
- file:///C:/Users/iclie/Downloads/Power%20BI%20Beginner%20to%20Pro%20Workshop%20-%20DANECIA%20SMITH.pdf
  
  
+ <img width="732" height="562" alt="Screenshot 2026-08-10 212545" src="https://github.com/user-attachments/assets/2e009928-7663-467a-af6f-d2078ceab2f8" />
+ <img width="733" height="566" alt="Screenshot 2026-08-10 212517" src="https://github.com/user-attachments/assets/b6607682-7720-4790-a41b-2d38b2b2be4f" />
+ <img width="727" height="560" alt="Screenshot 2026-08-10 212454" src="https://github.com/user-attachments/assets/b1d8723c-bf7a-4043-9662-7cec48e7176a" />
+ <img width="707" height="513" alt="Screenshot 2026-08-10 212429" src="https://github.com/user-attachments/assets/8f8541e9-d547-46a4-b2fa-3f133efd5f5b" />
+ <img width="721" height="562" alt="Screenshot 2026-08-10 212125" src="https://github.com/user-attachments/assets/18c201c5-2827-4b83-a980-68748c90feb1" />
+ <img width="801" height="558" alt="Screenshot 2026-08-10 212757" src="https://github.com/user-attachments/assets/ed80c535-c05a-44ea-a6e2-ab1b497e72fd" />
+<img width="430" height="562" alt="Screenshot 2026-08-10 211837" src="https://github.com/user-attachments/assets/a546fdb2-f8f2-4d94-86b0-4d6915cf20e5" />
+
+
+
+
+
 
 ✔ Microsoft PL-300
 
